@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>les tableaux</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+ <p>
+<? php
+$mois = [
+  "janvier",
+  "fevrier",
+  "mars",
+  "avril",
+  "mai",
+  "juin",
+  "juillet",
+  "aout",
+  "septembre",
+  "octobre",
+  "novembre",
+  "decembre",
+]
+?>
+</p>
+
+
+</body>
+</html>
